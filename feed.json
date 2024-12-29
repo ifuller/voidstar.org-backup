@@ -1,0 +1,18 @@
+{
+	"version": "https://jsonfeed.org/version/1",
+	"title": "voidstar.org",
+	"icon": "https://micro.blog/ifuller/avatar.jpg",
+	"home_page_url": "https://voidstar.org/",
+	"feed_url": "https://voidstar.org/feed.json",
+	"items": [
+		
+			{
+				"id": "http://ifuller.micro.blog/2024/11/18/hello-world.html",
+				
+				"content_html": "<p>Hello World.</p>\n",
+				"content_text": "Hello World.\n",
+				"date_published": "2024-11-18T14:13:07-08:00",
+				"url": "https://voidstar.org/2024/11/18/hello-world.html"
+			}
+	]
+}
